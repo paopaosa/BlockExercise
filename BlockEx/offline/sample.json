@@ -1,0 +1,106 @@
+{
+	"name": "chameleon",
+	"version": "0.0.1",
+	"workA": [
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		}
+	],
+	"workB": [
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "FFFl Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "FFFl Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		}
+	],
+	"workC": [
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "FFFl Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "FFFl Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		},
+		{
+			"name": "Still Jobs",
+			"sex":  "male"
+		}
+	]
+}

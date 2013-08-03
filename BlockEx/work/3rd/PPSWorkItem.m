@@ -1,13 +1,13 @@
 //
-//  PPSViewController.h
+//  PPSWorkItem.m
 //  BlockEx
 //
 //  Created by Paopaosa on 13-3-22.
 //  Copyright (c) 2013年 Paopaosa. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "PPSWorkItem.h"
 
-@interface PPSViewController : UIViewController
+@implementation PPSWorkItem
 
 @end
